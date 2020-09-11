@@ -10,6 +10,7 @@ namespace MiPrimerProyecto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
